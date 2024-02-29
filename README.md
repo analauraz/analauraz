@@ -1,4 +1,4 @@
-# Olá, Eu Sou a Ana Laura, e estou em busca de uma oportunidade com Desenvolvimento!
+# Olá, Eu Sou a Ana Laura, e estou em busca de uma oportunidade com Desenvolvimento! 😄
 
 ## Sobre Mim
 Sou apaixonada por desenvolvimento de software e tenho experiência em várias tecnologias, incluindo C, C#, Python, HTML e Java.
